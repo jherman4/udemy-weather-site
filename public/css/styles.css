@@ -40,6 +40,9 @@ header a {
 .portrait {
     transform: rotate(90deg);
     width: 250px;
+    position: relative;
+    top: 50px;
+    left: 80px
 }
 
 input {
